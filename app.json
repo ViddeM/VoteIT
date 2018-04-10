@@ -2,7 +2,7 @@
   "name": "VoteIT",
   "description": "A voting system",
   "repository": "https://github.com/cthit/VoteIT",
-  "logo": "http://imgur.com/3Xwg8XF.png",
+  "logo": "./src/resources/Logo.png",
   "keywords": ["node", "voteIT", "voting"],
   "env": {
     "PASSWORD": {
